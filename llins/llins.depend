@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507687203 source:d:\ds\llins\main.cpp
+	<iostream>
+	<climits>
+

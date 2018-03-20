@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508152098 source:d:\ds\ninjas\main.cpp
+	<iostream>
+	<cstring>
+	<climits>
+

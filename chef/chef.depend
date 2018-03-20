@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518350606 source:d:\ds\chef\main.cpp
+	<string>
+	<iostream>
+	<vector>
+

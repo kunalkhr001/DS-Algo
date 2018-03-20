@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508683057 source:d:\ds\cllg\main.cpp
+	<iostream>
+	<ctime>
+

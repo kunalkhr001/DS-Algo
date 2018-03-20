@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510908090 source:d:\ds\stringmatching\main.cpp
+	<iostream>
+	<cstring>
+

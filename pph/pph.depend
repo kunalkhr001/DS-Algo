@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506418136 source:d:\ds\pph\main.cpp
+	<iostream>
+	<time.h>
+	<cmath>
+

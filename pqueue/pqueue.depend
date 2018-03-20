@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510295694 source:d:\ds\pqueue\main.cpp
+	<iostream>
+	<vector>
+	<climits>
+
